@@ -28,6 +28,6 @@ else:
 
 
 
-
+#Change "1" below depending on number of questions#
 finalscore = score/1*100
 print("Your Score is " + str(finalscore) + "%")
